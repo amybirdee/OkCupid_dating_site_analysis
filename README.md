@@ -1,4 +1,4 @@
-# dating_site
+# Dating_site_analysis
 
 This dataset contains around 60,000 rows of data consisting of the profiles of dating site members over the 2011-2012 period
 
