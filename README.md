@@ -8,4 +8,4 @@
 
 - The project is still a work in progress and is mainly being carried out in Python with a smaller part of the analysis done in SQL
 
-- One jupyter notebook has been uploaded so far and more will follow in due course
+- Two jupyter notebook have been uploaded so far and more will follow in due course along with a final presentation
