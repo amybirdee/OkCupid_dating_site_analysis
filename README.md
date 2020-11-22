@@ -1,4 +1,4 @@
-# Dating_site_analysis
+# Analysing the profiles of members of the OkCupid dating site
 
 - The data consist of circa 60,000 profiles on OkCupid’s member database during the 2011-2012 period
 
