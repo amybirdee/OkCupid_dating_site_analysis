@@ -1,11 +1,10 @@
 # Dating_site_analysis
 
-- This dataset contains around 60,000 rows of data consisting of the profiles of dating site members over the 2011-2012 period
+- The data consist of circa 60,000 profiles on OkCupid’s member database during the 2011-2012 period
 
-- This project aims to discover patterns, trends and insights in the member data
+- This project aims to segment the data and discover patterns in the member profiles, e.g. what is the age profile of members? What are their eating and drinking habits? Is there a link between their level of education and drug use? Are they even single??
 
-- Following data cleaning and exploration, the data will be modelled using a clustering algorithm to further discover patterns in the data
+- The main findings in the data have been presented in graphical format and the data analysis has been carried out in Python
 
-- The project is still a work in progress and is mainly being carried out in Python with a smaller part of the analysis done in SQL
+- The Python libraries used include Pandas, Numpy, Matplotlib and Seaborn
 
-- Two jupyter notebook have been uploaded so far and more will follow in due course along with a final presentation
