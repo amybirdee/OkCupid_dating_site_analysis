@@ -8,3 +8,7 @@
 
 - The Python libraries used include Pandas, Numpy, Matplotlib and Seaborn
 
+- For a detailed description of the code, feel free to read my article on www.data36.com. Links to parts 1 and 2 are below:
+Part 1: https://data36.com/data-cleaning-and-exploratory-data-analysis-project/
+Part 2: https://data36.com/data-visualization-analysis-python/
+
